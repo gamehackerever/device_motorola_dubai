@@ -37,7 +37,6 @@ $(call inherit-product, device/motorola/sm7325-common/common.mk)
 # Overlay
 PRODUCT_PACKAGES += \
     FrameworksResDubai \
-    LineageSystemUIDubai \
     SettingsResDubai \
     SettingsProviderResDubai \
     SystemUIResDubai \
